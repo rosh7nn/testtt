@@ -1,3 +1,3 @@
 class ApplicationRecord < ActiveRecord::Base
-  primary_abstract_class
+These are the chabnges mahvd c  primary_abstract_class
 end
